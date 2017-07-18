@@ -10,6 +10,8 @@ The way it works is simple; fork this project and make your additions. I will te
 # Installing the pack
 This is the easiest part of it all. Simply place all the contents of the repo on your SD card, open up GodMode9, and use the Install script for your region. This requires the [latest version of GodMode9.](https://github.com/d0k3/GodMode9/releases)
 
+NOTICE: This romhack requires a Nintendo 3DS that has custom firmware such as Luma3DS installed. If you do not have custom firmware, you will be unable to use this hack. Custom firmware is completely safe to install as takes about 20 minutes maximum. Follow [3ds.guide](http://3ds.guide) for a full tutorial on how to get custom firmware up and running. If you're on system version 11.4.0 or above, you cannot install CFW without a hardmod or a system transfer from a hacked console.
+
 # Current modifications
 There are already a number of modification from the time I've spent working on this in my own time. These include:
 
