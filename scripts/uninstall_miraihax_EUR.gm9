@@ -1,0 +1,6 @@
+# Uninstalls Project Mirai DX Romhacks, can be reinstalled with accompanying script
+
+set MSGOK "Romhack files moved successfully!"
+set MSGFAIL "Failed to move romhack! Is it installed?"
+mkdir+s 0:/MiraiHax
+mv+o 0:/luma/titles/0004000000148900/romfs 0:/MiraiHax
