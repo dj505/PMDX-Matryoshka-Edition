@@ -24,3 +24,4 @@ There are already a number of modification from the time I've spent working on t
 - Started working on an Extra Hard mode for Senbonzakura
 - Matryoshka has been replaced with Lon/Soraru's cover of the song
 - 1 2 Fanclub has been replaced with Lon/Soraru's cover of the song
+- No Logic now has a SuperHard/Expert chart (full credit to Mirai-san on GBATemp) 
