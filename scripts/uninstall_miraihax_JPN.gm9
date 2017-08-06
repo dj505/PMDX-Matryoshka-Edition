@@ -4,7 +4,5 @@ set MSGOK "Romhack files moved successfully!"
 set MSGFAIL "Failed to move romhack! Is it installed?"
 
 mkdir+s 0:/MiraiHax
-mkdir+s 0:/MiraiHax/aet_en
 
-mv+o 0:/luma/titles/000400000014A800/romfs/aet/* 0:/MiraiHax/aet_en
-mv+o 0:/luma/titles/000400000014A800/romfs 0:/MiraiHax
+mv+o 0:/luma/titles/000400000014A800/romfs/ 0:/MiraiHax/JPN/
