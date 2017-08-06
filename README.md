@@ -1,6 +1,8 @@
 # PMDX-Matryoshka-Edition
 A romhack for Project Mirai DX
 
+**THIS CURRENTLY DOES NOT WORK PROPERLY WITH THE JP VERSION OF THE GAME.**
+
 This romhack is basically one huge community-created hack.
 
 It includes things like custom songs, textures, charts, and more!
