@@ -3,5 +3,5 @@
 set MSGOK "Romhack files moved successfully!"
 set MSGFAIL "Failed to move romhack! Are the files placed correctly?"
 
-mkdir+s 0:/luma/titles/0004000000148900/romfs
-mv+o 0:/MiraiHax/US_EUR 0:/luma/titles/0004000000148900/romfs
+mkdir 0:/luma/titles/0004000000148900/romfs
+mv 0:/MiraiHax/US_EUR 0:/luma/titles/0004000000148900/romfs
